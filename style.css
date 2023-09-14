@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+header{
+    max-width: 100%;
+}
+.container{
+    margin: auto;
+    padding: 0;
+    max-width: 1140px;
+}
+header img{
+    display: block;
+    margin: auto
+}
+.header__top nav{
+    display: inline-block;
+    justify-content: space-between;
+    width: 800px;
+    margin: auto;
+}
+header ul li{
+    display: inline-block;
+    padding: 20px;
+}
